@@ -10,5 +10,4 @@ Day 1
 Basics: setup, REPL, variables, data types, operators, input().
 
 Day 2 
-
 Strings, String slicing, Negative slicing, Slicing with skip value, String funtions,
