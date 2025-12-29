@@ -9,8 +9,8 @@ I'm a 1st year student and I'm done with my semester exams, I have a fair share 
 Day 1  
 Basics: setup, REPL, variables, data types, operators, input().
 
-Day 2 
+Day 2  
 Strings, String slicing, Negative slicing, Slicing with skip value, String funtions,
 
-Say 3 
+Day 3  
 List, list methods, tuple, methods of tuple.
